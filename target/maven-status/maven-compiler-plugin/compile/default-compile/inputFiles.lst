@@ -1,0 +1,10 @@
+/workspaces/Spoti/src/main/java/TelaPrincipalUsuario.java
+/workspaces/Spoti/src/main/java/Telalogin.java
+/workspaces/Spoti/src/main/java/spotifei/conexao/ConexaoBD.java
+/workspaces/Spoti/src/main/java/spotifei/dao/Conexao.java
+/workspaces/Spoti/src/main/java/spotifei/main/Main.java
+/workspaces/Spoti/src/main/java/spotifei/visao/CadastroAdministrador.java
+/workspaces/Spoti/src/main/java/spotifei/visao/LoginAdministrador.java
+/workspaces/Spoti/src/main/java/spotifei/visao/TelaCadastroUsuario.java
+/workspaces/Spoti/src/main/java/spotifei/visao/TelaPrincipalUsuario.java
+/workspaces/Spoti/src/main/java/spotifei/visao/Telalogin.java
